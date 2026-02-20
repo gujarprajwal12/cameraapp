@@ -58,5 +58,6 @@ dependencies {
     implementation("androidx.camera:camera-view:1.3.2")
 
 
-
+//    // watermark
+//    implementation("com.arthenica:ffmpeg-kit-full:6.0-2")
 }
