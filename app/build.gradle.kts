@@ -37,6 +37,8 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
+
 }
 
 dependencies {
@@ -59,5 +61,13 @@ dependencies {
 
 
 //    // watermark
-//    implementation("com.arthenica:ffmpeg-kit-full:6.0-2")
+ //    implementation("com.arthenica:ffmpeg-kit-full:6.0-2")
+
+
+    implementation("androidx.media3:media3-transformer:1.3.1")
+    implementation("androidx.media3:media3-effect:1.3.1")
+    implementation("androidx.media3:media3-common:1.3.1")
+
+
+
 }

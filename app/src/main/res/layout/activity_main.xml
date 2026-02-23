@@ -24,7 +24,7 @@
         android:id="@+id/edtcameraid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="select the camera id for capture the vdieo"
+        android:hint="Enter the camera id for capture the video"
         android:text=""
         android:padding="10dp"
         android:inputType="number"
